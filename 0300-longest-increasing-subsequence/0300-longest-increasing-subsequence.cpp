@@ -29,16 +29,31 @@ ll LIS(ll i )
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        memset(dp,-1,sizeof(dp));
+        
         n = nums.size();
-        for(int i=0; i<n; i++)
-        arr[i] = nums[i];
 
+        ll inf  = 1e5;
+
+        vector<ll> hash(n+2, inf);
         ll ans = 0;
+        hash[0] = -inf;
 
         for(int i=0; i<n; i++)
-        ans = max(ans, LIS(i));
+        {
+            for(int j=1; j<=n; j++)
+            {
+                if( (hash[j] > nums[i]) && (hash[j-1] < nums[i])  )
+                {
+                    hash[j] = nums[i];
+                }
+            }
+        }
 
+        for(int i=0; i<=n+1; i++)
+        {
+            if(hash[i]==inf)
+            return i-1;
+        }
         return ans;
     }
 };
