@@ -34,25 +34,43 @@ public:
 
         ll inf  = 1e5;
 
-        vector<ll> hash(n+2, inf);
+        vector<ll> hash(n+1, inf);
         ll ans = 0;
         hash[0] = -inf;
 
         for(int i=0; i<n; i++)
         {
-            for(int j=1; j<=n; j++)
+            ll l,r,mid,val;
+            l = 1;
+            r = n;
+            val = nums[i];
+
+            while(l<=r)
             {
-                if( (hash[j] > nums[i]) && (hash[j-1] < nums[i])  )
+                mid = (l+r)/2;
+
+                //if( (hash[mid] > val ) && (hash[mid-1]  < val ) ) break;
+                if( hash[mid] >= val )
                 {
-                    hash[j] = nums[i];
+                        if( hash[mid-1] < val )
+                    	{
+                    		break;
+                    	}
+                    else
+                    	r = mid - 1;
                 }
+                else
+                    l = mid + 1;
             }
+
+            hash[mid] = val;
+
         }
 
-        for(int i=0; i<=n+1; i++)
+        for(int i=0; i<=n; i++)
         {
-            if(hash[i]==inf)
-            return i-1;
+            if(hash[i]!=inf)
+            ans  = i;
         }
         return ans;
     }
