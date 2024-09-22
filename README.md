@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,8 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0547-number-of-provinces) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0547-number-of-provinces) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
