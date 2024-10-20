@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
@@ -38,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
