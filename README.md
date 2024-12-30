@@ -65,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1250-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0372-super-pow) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
