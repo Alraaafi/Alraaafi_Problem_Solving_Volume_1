@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
@@ -68,9 +69,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
 | [0372-super-pow](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0372-super-pow) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0372-super-pow) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
