@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0416-partition-equal-subset-sum) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
 | [0372-super-pow](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0372-super-pow) |
 ## Divide and Conquer
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0733-flood-fill) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
