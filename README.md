@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
 ## Bit Manipulation
