@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0416-partition-equal-subset-sum) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
