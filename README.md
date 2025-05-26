@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0322-coin-change) |
