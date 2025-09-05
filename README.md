@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -120,9 +121,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
