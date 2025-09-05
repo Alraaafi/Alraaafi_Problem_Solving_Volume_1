@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0733-flood-fill) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
@@ -116,4 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
