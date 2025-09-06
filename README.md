@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0131-palindrome-partitioning) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0961-long-pressed-name](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0961-long-pressed-name) |
 | [1250-longest-common-subsequence](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -136,4 +137,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0283-move-zeroes) |
+| [0961-long-pressed-name](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0961-long-pressed-name) |
 <!---LeetCode Topics End-->
