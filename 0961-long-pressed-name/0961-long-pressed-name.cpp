@@ -34,7 +34,7 @@ public:
             }
         }
 
-        cout<<i<<" "<<j<<" "<<ch<<" "<<t[j]<<endl;
+        //cout<<i<<" "<<j<<" "<<ch<<" "<<t[j]<<endl;
         for( ;j<m; j++ )
         {
             if( t[j]!= ch ){
