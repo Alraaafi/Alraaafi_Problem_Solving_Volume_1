@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0204-count-primes) |
@@ -136,6 +137,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0283-move-zeroes) |
 | [0961-long-pressed-name](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0961-long-pressed-name) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Alraaafi/Alraaafi_Problem_Solving_Volume_1/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
